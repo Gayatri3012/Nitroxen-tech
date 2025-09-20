@@ -1980,6 +1980,20 @@ section,
 .service-details .services-img {
   margin-bottom: 20px;
 }
+.project-photo
+{
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+}
+
+.services-img
+{
+  width: 40%;
+  height: auto;
+  aspect-ratio: square;
+}
 
 .service-details h3 {
   font-size: 26px;
