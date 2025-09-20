@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /pages
+
+Sitemap: https://www.nitroxen.in/sitemap.xml
